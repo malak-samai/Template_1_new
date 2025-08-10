@@ -1,0 +1,30 @@
+.relative{
+    position: relative;
+}
+
+.absolute{
+    position: absolute;
+}
+
+.center{
+    text-align: center;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.capitalize{
+    text-transform: capitalize;
+}
+
+.float{
+    float: left;
+}
+
+.overflow{
+    overflow: hidden;
+}
+
+
+
